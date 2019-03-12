@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSM2019-Productivity", "VSM2019-Productivity\VSM2019-Productivity.csproj", "{48AE8F31-8AB8-41B7-A357-F3EF5ECF0255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48AE8F31-8AB8-41B7-A357-F3EF5ECF0255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48AE8F31-8AB8-41B7-A357-F3EF5ECF0255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48AE8F31-8AB8-41B7-A357-F3EF5ECF0255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48AE8F31-8AB8-41B7-A357-F3EF5ECF0255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
